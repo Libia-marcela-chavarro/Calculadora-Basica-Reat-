@@ -1,0 +1,9 @@
+.ContornoCalculadora{
+    border: 2px rgb(44, 133, 41) solid;
+    background-color:rgb(232, 202, 234);
+    border-radius: 35px;
+    margin: auto;
+    width: 400px;
+    height: 600px;
+   
+}
